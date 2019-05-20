@@ -18,13 +18,13 @@ email: info@bremenhack.de
 description: >- # this means to ignore newlines until "baseurl:"
   Hackathon aus Bremen. Innerhalb von 42 Stunden haben Menschen aus unterschiedlichen Disziplinen Zeit, an ihren Projekten zu arbeiten.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bremenhack.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bremenhack
 github_username:  bremenhack
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 

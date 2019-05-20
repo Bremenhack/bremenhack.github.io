@@ -36,5 +36,3 @@ excerpt: "\n\t\t\t\t\t\t"
 <p>
 				Du möchtest mit dem BremenHack in Kontakt treten oder sogar helfen? Wunderbar!</p>
 <p>Folge uns gerne auf <a href="http://twitter.com/bremenhack">Twitter</a> und <a href="http://facebook.com/bremenhack">Facebook</a>, oder besuche unser <a href="http://github.com/bremenhack">Github Profil</a>.</p>
-<p>Du hast weitere Fragen? Füll das Formular aus und wir lassen von uns hören.</p>
-<p>[wpforms id="624"]		</p>

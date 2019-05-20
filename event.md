@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Das Event
+title: About
 date: 2016-11-23 20:40:20.000000000 +01:00
 type: page
 parent_id: '0'
