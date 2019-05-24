@@ -18,13 +18,7 @@ meta:
   _yoast_wpseo_focuskw_text_input: bremenhack anmeldung
   _yoast_wpseo_focuskw: bremenhack anmeldung
   _yoast_wpseo_linkdex: '45'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Die Sponsorensuche war ein voller Erfolg. Die Räumlichkeiten sind gefunden. Beim Zeitraum musste ein wenig vorverlegt werden. Insgesamt startet der nächste logische Schritt mit euch! <a href="https://pretix.eu/bremenhack/2018/">Die Anmeldung für den BremenHack ist ab jetzt möglich.</a></p>

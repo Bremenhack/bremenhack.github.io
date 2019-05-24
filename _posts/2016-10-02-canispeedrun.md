@@ -26,7 +26,6 @@ author:
   display_name: Niklas Meyer
   first_name: Niklas
   last_name: Meyer
-excerpt: "\n\t\t\t\t\t\t"
 ---
 <p>
 				Beim #bremenhack2016 habe ich mich entschieden react.js und python ein wenig naeher kennenzulernen. Ich habe mich einer etwas aelteren Idee bedient und eine Kombination aus der speedrun.com API und der Steam API geschaffen.</p>

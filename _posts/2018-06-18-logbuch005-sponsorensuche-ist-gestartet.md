@@ -19,13 +19,7 @@ meta:
   _yoast_wpseo_content_score: '60'
   _yoast_wpseo_primary_category: ''
   _thumbnail_id: '633'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Bevor der diesjährige BremenHack startet, muss natürlich die Finanzierung gesichert sein. Im letzten Jahr hat der BremenHack versucht nur mit wenigen Sponsoren auszukommen. Durch die Unterstützung der <a href="https://www.vhs-bremen.de/Live/Home.vhs">VHS Bremen</a>, konnte die <a href="http://www.plantage13.de/">Plantage 13</a> gemietet werden, was uns finanziell erleichterte.<br />

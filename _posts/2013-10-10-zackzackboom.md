@@ -14,13 +14,7 @@ meta:
   _edit_last: '1'
   _thumbnail_id: '56'
   layers: a:1:{s:9:"video-url";s:0:"";}
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Team: Lasse Schwarten, Marco Lindner, Fabian Junge und Niklas Barning</p>

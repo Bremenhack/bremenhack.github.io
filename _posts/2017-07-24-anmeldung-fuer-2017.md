@@ -17,13 +17,7 @@ meta:
   _wpas_mess: 'Es geht los: meldet euch für den BremenHack 2017 an!'
   _publicize_twitter_user: "@BremenHack"
   _wpas_done_all: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Die Tore sind offen. Ihr könnt euch jetzt für den BremenHack 2017 <a href="https://pretix.eu/bremenhack/2017/">anmelden</a>.<br />

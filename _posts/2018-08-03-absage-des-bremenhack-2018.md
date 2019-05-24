@@ -16,13 +16,7 @@ meta:
   _yoast_wpseo_content_score: '90'
   _yoast_wpseo_metadesc: Der BremenHack 2018 muss leider wegen zu wenig Anmeldungen
     abgesagt werden.
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				<!-- wp:paragraph --></p>

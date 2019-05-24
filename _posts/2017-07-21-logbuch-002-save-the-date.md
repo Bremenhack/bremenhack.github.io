@@ -18,13 +18,7 @@ meta:
   _wpas_done_all: '1'
   _wpas_mess: 'Neuer Blogbeitrag: Logbuch #002 Save the Date!'
   _wpas_skip_17195421: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Wir haben endlich ein Datum für den BremenHack 2017 und sind sogar, dank der Zusammenarbeit mit der VHS-Bremen, unter der Kurs-Nummer: <span id="ctl00_MainContent_lblKursNo"><a href="https://www.vhs-bremen.de/Live/Suchseite.aspx">69-601-M</a> zu finden.</span></p>

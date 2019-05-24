@@ -20,13 +20,7 @@ meta:
   _wpas_skip_13054113: '1'
   _yoast_wpseo_primary_category: ''
   _yoast_wpseo_content_score: '30'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Die Fotobox "Foto-Peter" ist eine Fotobox für Veranstaltungen.</p>

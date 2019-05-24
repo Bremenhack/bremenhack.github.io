@@ -14,13 +14,7 @@ meta:
   _edit_last: '1'
   _thumbnail_id: '73'
   layers: a:1:{s:9:"video-url";s:0:"";}
-author:
-  login: erotte
-  email: erotte@gmail.com
-  display_name: Eckhard Rotte
-  first_name: Eckhard
-  last_name: Rotte
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Team: Andreas Haller, Eckhard Rotte und Sven Bange</p>

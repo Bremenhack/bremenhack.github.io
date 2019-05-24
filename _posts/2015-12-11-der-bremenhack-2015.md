@@ -18,13 +18,7 @@ meta:
   _wpas_mess: Eine Zusammenfassung des BremenHack 2015
   _wpas_done_all: '1'
   _wpas_skip_13054113: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Was für ein Jahr. Wir belebten die Veranstaltung nach einjähriger Pause, mit einer neuen Location und leicht verändertem Konzept, wieder. Tatsächlich starteten die Vorbereitungen schon <strong>im Januar</strong> mit einer grundsätzlichen Frage, die sich auf das Konzept des BremenHacks auswirkte.</p>

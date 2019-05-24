@@ -23,7 +23,6 @@ author:
   display_name: marion
   first_name: Marion
   last_name: Nebuhr
-excerpt: "\n\t\t\t\t\t\t"
 ---
 <p>
 				Die Daten einer Rudermaschine werden ausgelesen und auf einer Webseite ausgewertet und präsentiert. Somit haben die Nutzer jetzt die Möglichkeit ihre Daten untereinander auszutauschen und gegeneinander anzutreten.</p>

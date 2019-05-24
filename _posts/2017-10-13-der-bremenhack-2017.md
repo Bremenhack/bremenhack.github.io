@@ -18,13 +18,7 @@ meta:
   _wpas_done_all: '1'
   _wpas_mess: Der BremenHack 2017
   _wpas_skip_17195421: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Der BremenHack ist wieder in eine neue Runde gegangen. Es war die vierte Iteration und fand vom 6. bis 8. Oktober in der Plantage 13 statt. Das erste Mal nicht in einem Café, sondern verteilt auf zwei Stockwerken in drei riesigen Räumen.</p>

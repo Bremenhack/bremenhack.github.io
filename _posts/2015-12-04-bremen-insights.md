@@ -17,13 +17,7 @@ meta:
   layers: a:1:{s:9:"video-url";s:0:"";}
   _jetpack_dont_email_post_to_subs: '1'
   _wpas_skip_13054113: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				bremen-insights.de ist ein kleines Projekt, welches beim #bremenhack2015 enstanden ist.<br />

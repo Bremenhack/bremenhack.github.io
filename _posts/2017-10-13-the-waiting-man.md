@@ -21,13 +21,7 @@ meta:
   _yoast_wpseo_content_score: '30'
   inline_featured_image: '0'
   _yoast_wpseo_primary_category: ''
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Wireless interactive audiovisual control for artistic performances or adverstising events.</p>

@@ -19,13 +19,7 @@ meta:
   _wpas_mess: Was passiert eigentlich gerade beim BremenHack? Ein Blogpost wird es
     euch verraten.
   _wpas_skip_13054113: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Der BremenHack war bis jetzt ein Buch mit vielen Siegeln.<br />

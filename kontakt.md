@@ -31,7 +31,6 @@ author:
   display_name: hbhackadmin
   first_name: Bremen
   last_name: Hack
-excerpt: "\n\t\t\t\t\t\t"
 ---
 <p>
 				Du möchtest mit dem BremenHack in Kontakt treten oder sogar helfen? Wunderbar!</p>

@@ -15,13 +15,7 @@ meta:
   _thumbnail_id: '96'
   _wpas_done_all: '1'
   layers: a:1:{s:9:"video-url";s:0:"";}
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Team: Christine Brovkina / <a href="https://twitter.com/fluetke">Florian Lütkebohmert</a> / Natalia Dynnikova / Henning Stöppler</p>

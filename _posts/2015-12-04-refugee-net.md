@@ -16,13 +16,7 @@ meta:
   _wpas_done_all: '1'
   layers: a:1:{s:9:"video-url";s:0:"";}
   _wpas_skip_13054113: '1'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Team: Julian Kornberger / Leonard Puhl / Oliver Söhlke / Rainer Krauss / <a href="https://twitter.com/mastersobin007">Sobin Jayaran</a> / <a href="https://twitter.com/zuxana_">Suzana Guzmann</a> / <a href="https://twitter.com/miguellissimo91">Miguel Kasparick</a></p>

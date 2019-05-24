@@ -23,7 +23,6 @@ author:
   display_name: hbhackadmin
   first_name: Bremen
   last_name: Hack
-excerpt: "\n\t\t\t\t\t\t"
 ---
 <br />
 <h4>Der BremenHack ist eine kleine Veranstaltung und muss sich dennoch mit der DSGVO auseinandersetzen. Wer dies in aller Länge machen möchte, kann dies gerne auf der <a href="https://dsgvo-gesetz.de/">Webseite der DSGVO</a> tun. Aber was für Daten sammeln wir eigentlich über euch?</h4>

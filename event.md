@@ -32,7 +32,6 @@ author:
   display_name: hbhackadmin
   first_name: Bremen
   last_name: Hack
-excerpt: "\n\t\t\t\t\t\t"
 ---
 <h2>Was ist der BremenHack?</h2>
 <p>Der BremenHack ist ein Hackathon, der seit 2013 existiert und von Andreas Haller und Eckhard Rotte gegründet wurde und 2016 von Niklas Barning weitergeführt wird. Innerhalb von 42 Stunden haben Menschen aus unterschiedlichen Disziplinen Zeit, an ihren Projekten zu arbeiten.</p>

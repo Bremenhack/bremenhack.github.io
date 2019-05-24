@@ -26,13 +26,7 @@ meta:
   _publicize_twitter_user: "@BremenHack"
   _wpas_skip_13054113: '1'
   _yoast_wpseo_opengraph-image-id: '574'
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Dieser Monat, der März, steht komplett im Zeichen des Marketings. Der BremenHack soll in der Stadt bekannter werden und muss sich daher in die Offline-Welt wagen.<br />

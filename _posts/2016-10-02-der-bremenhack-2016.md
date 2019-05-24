@@ -17,13 +17,7 @@ meta:
   _thumbnail_id: '312'
   _wpas_done_all: '1'
   _wpas_mess: Der BremenHack 2016
-author:
-  login: nbarning
-  email: niklas@barning.org
-  display_name: Niklas Barning
-  first_name: Niklas
-  last_name: Barning
-excerpt: "\n\t\t\t\t\t\t"
+
 ---
 <p>
 				Der diesjährige BremenHack war der dritte Hackathon und fand vor einer Woche im <a href="https://www.facebook.com/Karton-977229215626347/">Karton</a> in Bremen statt.<!--more--></p>
