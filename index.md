@@ -14,3 +14,5 @@ Der Begriff Hackathon bildet sich aus den beiden Wörtern „Hacken“ und „Ma
 Hackathons zeigen, dass eine interdisziplinäre und agile Arbeitsweise der Schlüssel zum Erfolg sind. Designer, Programmierer und handwerklich Begabte Menschen reichen sich hier die Hand um zusammen an einer Aufgabe zu arbeiten. Sie profitieren von den Kenntnissen der Anderen und führen somit ihr Projekt, innerhalb eines Wochenendes, erfolgreich zur Fertigstellung.
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/aCxi0sHB1hs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<script async defer data-website-id="48d27ee9-14c2-47d3-8979-a6bdb1b3ee90" src="https://umami.niklasbarning.de/umami.js"></script>
